@@ -4,4 +4,5 @@
 - Gosto de trabalhar sozinho, porém aprecio projetos em grupo da mesma fora
 - Informações de contato estão no meu perfil
 
-![senna-league-of-legends](https://user-images.githubusercontent.com/45082412/194649088-e37c4d00-1c6f-4bd3-94a5-7020d931144e.gif)
+![LeadingGrizzledAoudad-size_restricted](https://user-images.githubusercontent.com/45082412/194649938-0cb9284c-1eca-4f9c-ac0f-e45f6d4c7e86.gif)
+
