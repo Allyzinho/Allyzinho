@@ -1,5 +1,5 @@
 - Olá, sou Álisson Xavier, tenho 22 anos e curso Ciência da Computação na UFFS (Chapecó)
-- Atualmente estou aprendendo Java
+- Atualmente estou aprendendo Java e Kotlin
 - Tenho interesse em aprender mais sobre Back-end
 - Adoro de ler, ouvir música e também jogar um lolzinho kkkk
 
