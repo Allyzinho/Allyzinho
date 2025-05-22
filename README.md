@@ -1,4 +1,4 @@
-- Olá, sou Álisson Xavier, tenho 23 anos e curso Ciência da Computação na UFFS (Chapecó)
+- Olá, sou Álisson Xavier, tenho 24 anos e curso Bacharelado em Ciência da Computação na UFRPE
 - Atualmente estou aprendendo Java
 - Tenho interesse em aprender mais sobre Back-end
 - Adoro de ler, ouvir música e também jogar um lolzinho kkkk
